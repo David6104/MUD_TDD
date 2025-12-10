@@ -20,4 +20,8 @@ public class Thing{
     public String getName(){
         return this.name;
     }
+
+    public int getVolume(){
+        return this.volume;
+    }
 }
